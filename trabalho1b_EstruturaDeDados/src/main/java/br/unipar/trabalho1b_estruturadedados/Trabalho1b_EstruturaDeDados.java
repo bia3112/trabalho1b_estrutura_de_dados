@@ -119,7 +119,7 @@ public class Trabalho1b_EstruturaDeDados {
         
         System.out.println("\n\nComparação dos 3 métodos:");
         
-        System.out.print("\nOrdenação Inserção:\tOrdenação Seleção\t:Ordenação Bolha:\n");
+        System.out.print("\nOrdenação Inserção:\tOrdenação Seleção:\tOrdenação Bolha:\n");
         
         
         for(int i=0; i < vetor.length; i++){ 
